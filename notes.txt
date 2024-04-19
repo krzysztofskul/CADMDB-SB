@@ -1,0 +1,6 @@
+TODO / DONE notes
+----- ----- ----- ----- ----- 
+
+#0.1
+	. initial commit with springboot configuration
+	- MySQL database connection to establish
